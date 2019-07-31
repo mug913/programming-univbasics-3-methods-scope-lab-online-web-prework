@@ -5,6 +5,6 @@ def mario
   puts phrase
 end
 
-def toadstool(status)
+def toadstool($status)
   puts status
 end
